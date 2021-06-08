@@ -240,7 +240,8 @@ img {
 }
 #showcase::before {
   content: "";
-  background: url(/img/featured.jpg) no-repeat center center/cover;
+  background: url(/img/sohaib-ghyasi-MZ4eT8zPnWU-unsplash.jpg) no-repeat center
+    center/cover;
   opacity: 0.4;
   position: absolute;
   top: 0;
